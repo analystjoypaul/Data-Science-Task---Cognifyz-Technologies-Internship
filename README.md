@@ -6,7 +6,7 @@ Welcome! This repository contains the **complete solutions** to the tasks assign
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Shivraj Anand**, an undergraduate student in **Computer Science** at **B.P. Mandal College of Engineering**, graduating in **June 2025**.
+Hi, I'm **Joy Paul**, an undergraduate student in **Computer Science** at **Brainware University**, graduating in **June 2026**.
 
 I have a deep passion for **Data Science**, especially the parallels between **artificial intelligence** and the **human brain**. I enjoy working with data—whether it's cleaning messy datasets, performing statistical modeling, or building ML models that turn raw data into powerful insights.
 
@@ -18,9 +18,8 @@ Currently, I'm developing skills in:
 With a *questionably inclined mind* shaped by poetry and literature, I consider myself a lifelong learner—always exploring the evolving intersection between **humans and machines**.
 
 ### 🌐 Let's Connect!
-- 🔗 **LinkedIn**: [https://www.linkedin.com/in/shivrajanand]
-- 📸 **Instagram**: [https://www.instagram.com/shivrajanandai/]
-- 🌍 **Portfolio**: [https://shivrajanand.github.io/]
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/analyst-joy-paul/]
+- 🌍 **Portfolio**: [https://analystjoypaul.github.io/portfolio-website/portfolio-final]
 
 
 ---
