@@ -66,26 +66,13 @@ Each task is documented with appropriate code, visualizations, and insights in s
 ## 📂 Repository Structure
 
 ```plaintext
-|   Data Science Internship Task .pdf
-|   Dataset .csv
-|   level1.ipynb
-|   level2.ipynb
-|   level3.ipynb
-|   Level3Preprocessing.ipynb
+|---  Data Science Internship Task .pdf
+|---  Dataset .csv
+|--- level1.ipynb
+|--- level2.ipynb
+|--- level3.ipynb
 |   LICENSE
-|   Preprocessed.csv
 |   README.md
-|   restaurants_clustered_map.html
-|   
-\---ne_110m_admin_0_countries [Required for mapping]
-        ne_110m_admin_0_countries.cpg
-        ne_110m_admin_0_countries.dbf
-        ne_110m_admin_0_countries.prj
-        ne_110m_admin_0_countries.README.html
-        ne_110m_admin_0_countries.shp
-        ne_110m_admin_0_countries.shx
-        ne_110m_admin_0_countries.VERSION.txt
-
 ```
 ---
 
@@ -99,7 +86,7 @@ Follow these steps to set up and run the project locally:
 2. **Clone the Repository**
 
 ```bash
-git clone https://github.com/shivrajanand/Cognify-Data-Science-Internship-Task.git
+git clone https://github.com/analystjoypaul/Cognify-Data-Science-Internship-Task.git
 ```
 
 3. **Navigate to the Project Directory**
@@ -135,7 +122,5 @@ pip install -r requirements.txt
         level1.ipynb
 
         level2.ipynb
-
-        Level3Preprocessing.ipynb
 
         level3.ipynb
